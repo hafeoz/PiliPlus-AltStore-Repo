@@ -8,7 +8,7 @@
   "apps": [
     {
       "name": "PiliPlus",
-      "bundleIdentifier": "com.bggRGjQaUbCoE.PiliPlus",
+      "bundleIdentifier": "com.example.PiliPlus",
       "developerName": "bggRGjQaUbCoE",
       "subtitle": "Latest PiliPlus release",
       "localizedDescription": "PiliPlus iOS app builds from GitHub releases",
